@@ -2,6 +2,8 @@
 
 GIS project 001: Program to create a map of exlipse and cities of your input country
 
+To see how it looks like clikc this [link](https://nbviewer.org/github/asamirice/001_NextEclipse/blob/main/Notebook/WhenIsYourNextEclipse.ipynb)
+
 Since this is my first GIS coding project, I referenced Christy's [PlanYourNextEclipseViewing](https://github.com/christyheaton/PlanYourNextEclipseViewing) project.
 
 
